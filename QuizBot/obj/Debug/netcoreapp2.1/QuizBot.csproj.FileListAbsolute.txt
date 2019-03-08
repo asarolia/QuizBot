@@ -1,0 +1,15 @@
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\bin\Debug\netcoreapp2.1\QuizBot.bot
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\bin\Debug\netcoreapp2.1\QuizBot.deps.json
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\bin\Debug\netcoreapp2.1\QuizBot.runtimeconfig.json
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\bin\Debug\netcoreapp2.1\QuizBot.runtimeconfig.dev.json
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\bin\Debug\netcoreapp2.1\QuizBot.dll
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\bin\Debug\netcoreapp2.1\QuizBot.pdb
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.csprojAssemblyReference.cache
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.csproj.CoreCompileInputs.cache
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.RazorAssemblyInfo.cache
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.RazorAssemblyInfo.cs
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.AssemblyInfoInputs.cache
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.AssemblyInfo.cs
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.RazorTargetAssemblyInfo.cache
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.dll
+C:\Users\asarolia\source\repos\QuizBot\QuizBot\obj\Debug\netcoreapp2.1\QuizBot.pdb

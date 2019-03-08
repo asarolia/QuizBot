@@ -1,0 +1,25 @@
+﻿{
+  "name": "QuizBot",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "",
+      "appPassword": "",
+      "id": "1"
+    },
+    {
+      "type": "luis",
+      "name": "QuizApp",
+      "appId": "c0de2747-69a0-4508-9438-1e0375be903a",
+      "version": "0.1",
+      "authoringKey": "5e33b3236eae412da17ac19cd9b200d5",
+      "subscriptionKey": "5e33b3236eae412da17ac19cd9b200d5",
+      "region": "westus",
+      "id": "2"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
